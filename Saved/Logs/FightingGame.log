@@ -21241,3 +21241,70 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.09.13-06.05.44:512][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
 [2021.09.13-06.05.44:542][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
 [2021.09.13-06.05.44:580][783]LogPlayLevel: Display: Destroying online subsystem :Context_124
+[2021.09.13-06.09.30:008][229]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.09.13-06.09.30:013][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.13-06.09.30:013][229]PIE: New page: PIE session: ThirdPersonExampleMap (Sep 12, 2021, 8:09:30 PM)
+[2021.09.13-06.09.30:013][229]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.13-06.09.30:021][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007749s)
+[2021.09.13-06.09.30:022][229]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.13-06.09.30:022][229]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2021.09.13-06.09.30:022][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009166s)
+[2021.09.13-06.09.30:082][229]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.09.13-06.09.30:085][229]LogAudio: Display: Creating Audio Device:                 Id: 82, Scope: Unique, Realtime: True
+[2021.09.13-06.09.30:085][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.13-06.09.30:085][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.13-06.09.30:085][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.13-06.09.30:085][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.13-06.09.30:085][229]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.13-06.09.30:085][229]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.13-06.09.30:085][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.13-06.09.30:085][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.13-06.09.30:086][229]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.13-06.09.30:086][229]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.13-06.09.30:089][229]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.13-06.09.30:089][229]LogAudioMixer: Display: 1: FrontRight
+[2021.09.13-06.09.30:096][229]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.09.13-06.09.30:096][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.13-06.09.30:096][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.13-06.09.30:096][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.13-06.09.30:097][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.13-06.09.30:097][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.13-06.09.30:097][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.13-06.09.30:097][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.13-06.09.30:097][229]LogInit: FAudioDevice initialized.
+[2021.09.13-06.09.30:097][229]LogAudio: Display: Audio Device (ID: 82) registered with world 'ThirdPersonExampleMap'.
+[2021.09.13-06.09.30:122][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-06.09.30:123][229]LogLoad: Game class is 'GM_Fighter2D_C'
+[2021.09.13-06.09.30:124][229]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.09.13-01.09.30
+[2021.09.13-06.09.30:124][229]LogWorld: Bringing up level for play took: 0.001678
+[2021.09.13-06.09.30:125][229]LogOnline: OSS: Creating online subsystem instance for: :Context_125
+[2021.09.13-06.09.30:126][229]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2021.09.13-06.09.30:126][229]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2021.09.13-06.09.30:126][229]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2021.09.13-06.09.30:128][229]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2021.09.13-06.09.30:129][229]PIE: Server logged in
+[2021.09.13-06.09.30:129][229]PIE: Play in editor total start time 0.117 seconds.
+[2021.09.13-06.09.30:963][295]LogBlueprintUserMessages: [BP_Fighter2D_C_0] Input Reset
+[2021.09.13-06.09.31:570][360]LogBlueprintUserMessages: [BP_Fighter2D_C_0] Input Reset
+[2021.09.13-06.09.37:941][ 44]LogBlueprintUserMessages: [BP_Fighter2D_C_0] Input Reset
+[2021.09.13-06.09.39:131][173]LogBlueprintUserMessages: [BP_Fighter2D_C_0] Input Reset
+[2021.09.13-06.09.40:147][282]LogBlueprintUserMessages: [BP_Fighter2D_C_0] Input Reset
+[2021.09.13-06.09.41:070][383]LogBlueprintUserMessages: [BP_Fighter2D_C_0] Input Reset
+[2021.09.13-06.09.42:344][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-06.09.42:344][517]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.13-06.09.42:345][517]LogSlate: Window 'FightingGame Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.13-06.09.42:353][517]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-06.09.42:354][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-06.09.42:365][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.13-06.09.42:381][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-06.09.42:404][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-06.09.42:405][517]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-06.09.42:411][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.09.13-06.09.42:441][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.09.13-06.09.42:476][518]LogPlayLevel: Display: Destroying online subsystem :Context_125
+[2021.09.13-06.10.15:690][ 80]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/_Main/Input/IAC_FightingInput2D.IAC_FightingInput2D
+[2021.09.13-06.11.00:283][377]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Functions/L_CharacterMacros.L_CharacterMacros
+[2021.09.13-06.11.17:378][384]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Functions/L_CharacterMacros" FILE="P:/Unreal Engine/UE5-FightingGame/Content/_Main/Functions/L_CharacterMacros.uasset" SILENT=true
+[2021.09.13-06.11.17:388][384]LogSavePackage: Moving 'P:/Unreal Engine/UE5-FightingGame/Saved/L_CharacterMacros410E16E84AE9122F4B0175AEAFB78AAD.tmp' to 'P:/Unreal Engine/UE5-FightingGame/Content/_Main/Functions/L_CharacterMacros.uasset'
+[2021.09.13-06.11.17:400][384]AssetCheck: New page: Asset Save: L_CharacterMacros
+[2021.09.13-06.11.17:400][384]LogContentValidation: Display: Validating Blueprint /Game/_Main/Functions/L_CharacterMacros.L_CharacterMacros
