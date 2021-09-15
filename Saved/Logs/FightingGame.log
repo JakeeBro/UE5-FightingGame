@@ -9719,3 +9719,9 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.09.15-02.44.38:597][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
 [2021.09.15-02.44.38:626][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
 [2021.09.15-02.44.38:640][280]LogPlayLevel: Display: Destroying online subsystem :Context_110
+[2021.09.15-02.51.26:495][882]BlueprintLog: New page: Compile BP_Fighter2D
+[2021.09.15-02.51.26:573][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.09.15-02.51.26:647][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Character/BP_Fighter2D" FILE="P:/Unreal Engine/UE5-FightingGame/Content/_Main/Character/BP_Fighter2D.uasset" SILENT=true
+[2021.09.15-02.51.26:707][882]LogSavePackage: Moving 'P:/Unreal Engine/UE5-FightingGame/Saved/BP_Fighter2DD6798E654A8A8926D85E9BB11918AA5D.tmp' to 'P:/Unreal Engine/UE5-FightingGame/Content/_Main/Character/BP_Fighter2D.uasset'
+[2021.09.15-02.51.26:722][882]AssetCheck: New page: Asset Save: BP_Fighter2D
+[2021.09.15-02.51.26:722][882]LogContentValidation: Display: Validating Blueprint /Game/_Main/Character/BP_Fighter2D.BP_Fighter2D
